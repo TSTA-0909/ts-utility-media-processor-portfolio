@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output_demo/
+*.zip
+*.exe
+.DS_Store
+Thumbs.db
+settings.json
